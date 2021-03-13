@@ -1,11 +1,12 @@
-import React from "react";
-import "./style.css";
+import {useState} from 'react';
+import './App.css';
+import FlightIcon from './assets/flight-icon.png';
 
-export default function App() {
-  return (
-    <div>
-      <h1>Hello StackBlitz!</h1>
-      <p>Start editing to see some magic happen :)</p>
-    </div>
-  );
+
+
+
+function FlightBooking() {
+  // your code here
 }
+
+export default FlightBooking;
