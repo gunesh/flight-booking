@@ -99,3 +99,12 @@
   font-size: 1.5em;
   margin: 5px;
 }
+.booking-form {
+  margin: 0 auto;
+  width:80%
+}
+.search-flight{
+  background-color:#ccc;
+  width:auto;
+  margin-left: 10px;
+}
